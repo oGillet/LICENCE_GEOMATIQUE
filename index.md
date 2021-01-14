@@ -7,3 +7,6 @@
 
 * Tutorial Corine Land Cover (CLC) <a href="documents/CLC.pdf" download>Cliquez ici pour le télécharger</a>
 ![CLC](documents/MAP_1.png)
+
+* Exercice - Estimer la hauteur d'eau dans les bâtiments <a href="documents/CLC.pdf" download>Cliquez ici pour le télécharger</a>
+![CLC](documents/MAP_1.png)
